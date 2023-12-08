@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/SunilSinghTarkar/sunilsinghtarkar/blob/main/Screenshot_20230519_153505.png)
+![MasterHead](https://github.com/SunilSinghTarkar/sunilsinghtarkar/blob/main/Screenshot_20231208_172443.png)
 
 <h1 align="center">Hi 👋, I'm Sunil Singh Tarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
